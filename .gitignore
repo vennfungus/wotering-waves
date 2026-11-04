@@ -1,2 +1,4 @@
 /assets
 /.venv
+/target
+Cargo.lock
